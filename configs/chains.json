@@ -1,0 +1,56 @@
+{
+  "chains": {
+    "robinhood": {
+      "name": "Robinhood Chain",
+      "chainId": 4663,
+      "rpc": "https://rpc.robinhood.com",
+      "explorer": "https://explorer.robinhood.com",
+      "native": "ETH",
+      "stockTokenRegistry": "0x0000000000000000000000000000000000000000",
+      "type": "evm-l2",
+      "settlement": "optimistic",
+      "notes": "Stock-token native L2; tokenized equities settle here."
+    },
+    "bsc": {
+      "name": "BNB Smart Chain",
+      "chainId": 56,
+      "rpc": "https://bsc-dataseed.binance.org",
+      "explorer": "https://bscscan.com",
+      "native": "BNB",
+      "stockTokens": {
+        "TSLAB": "0x6Bfa119a191946Ba1E15B1D5e3A1E9B2C9A7fF53",
+        "NVDAB": "0x2be5d77c7d8a6b3a2d0f2a8d3c9b6e5f1a0d4c3b",
+        "MSFTo": "0x7fE5e1c4f2a9b3d6c8e0f1a2b3c4d5e6f7a8b9c0",
+        "GOOGL": "0xaB3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c"
+      },
+      "type": "evm-l1",
+      "settlement": "final"
+    },
+    "base": {
+      "name": "Base",
+      "chainId": 8453,
+      "rpc": "https://mainnet.base.org",
+      "explorer": "https://base.blockscout.com",
+      "native": "ETH",
+      "type": "evm-l2",
+      "settlement": "optimistic"
+    }
+  },
+  "payments": {
+    "x402": { "version": "v2", "unit": "U", "facilitator": "binance-pay" },
+    "erc8183": { "escrow": "AgenticCommerce", "chain": "bsc-testnet", "chainId": 97 },
+    "b402": { "hmac": "sha512", "authenticated": true }
+  },
+  "context": {
+    "uomp": { "guard": "localhost:9374", "protocol": "UOMP v1" }
+  },
+  "ai": {
+    "defaultLlm": "kimi-k2.6",
+    "virtuals": {
+      "protocol": "Virtuals Protocol",
+      "registry": "https://app.virtuals.io",
+      "agentTemplate": "onchain-analyst-v1"
+    }
+  },
+  "indicators": ["RSI", "MACD", "BOLLINGER", "MA50", "MA200", "GOLDEN_CROSS", "DEATH_CROSS", "ADX", "OBV", "ATR", "VAR95"]
+}
