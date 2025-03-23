@@ -10,3 +10,4 @@
 - 2025-03-20 12:51: wip: refine pipeline
 - 2025-03-18 09:59: fix: x402 nonce handling
 - 2025-03-18 12:53: perf: faster indicators
+- 2025-03-23 09:02: test: add regression
