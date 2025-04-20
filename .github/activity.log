@@ -24,3 +24,4 @@
 - 2025-04-29 17:25: perf: faster indicators
 - 2025-04-05 16:31: fix: edge case in report
 - 2025-04-28 09:09: docs: update usage
+- 2025-04-20 09:24: fix: x402 nonce handling
