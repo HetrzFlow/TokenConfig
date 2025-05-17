@@ -35,3 +35,4 @@
 - 2025-05-08 08:15: fix: edge case in report
 - 2025-05-24 15:52: fix: edge case in report
 - 2025-05-05 18:30: docs: update usage
+- 2025-05-17 21:38: fix: x402 nonce handling
