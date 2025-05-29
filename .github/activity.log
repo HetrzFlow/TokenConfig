@@ -38,3 +38,4 @@
 - 2025-05-17 21:38: fix: x402 nonce handling
 - 2025-05-30 16:48: test: add regression
 - 2025-05-13 18:41: perf: faster indicators
+- 2025-05-29 16:28: fix: edge case in report
