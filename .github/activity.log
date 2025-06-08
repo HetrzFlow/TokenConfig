@@ -48,3 +48,4 @@
 - 2025-05-04 09:42: fix: x402 nonce handling
 - 2025-06-14 15:55: wip: refine pipeline
 - 2025-06-02 14:46: perf: faster indicators
+- 2025-06-08 11:12: feat: expose indicator config
