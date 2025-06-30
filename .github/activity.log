@@ -52,3 +52,4 @@
 - 2025-06-14 10:17: feat: expose indicator config
 - 2025-06-28 09:28: fix: edge case in report
 - 2025-06-21 16:53: wip: refine pipeline
+- 2025-06-30 20:54: test: add regression
