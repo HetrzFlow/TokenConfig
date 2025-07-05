@@ -82,3 +82,4 @@
 - 2025-07-24 15:35: fix: x402 nonce handling
 - 2025-07-04 09:56: docs: update usage
 - 2025-07-27 13:37: docs: update usage
+- 2025-07-05 08:19: perf: faster indicators
