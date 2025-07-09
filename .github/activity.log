@@ -76,3 +76,4 @@
 - 2025-07-04 09:47: docs: update usage
 - 2025-07-10 17:13: perf: faster indicators
 - 2025-07-22 18:54: chore: cleanup
+- 2025-07-09 21:03: fix: edge case in report
