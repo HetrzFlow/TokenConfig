@@ -88,3 +88,4 @@
 - 2025-08-28 10:51: docs: update usage
 - 2025-08-01 10:47: perf: faster indicators
 - 2025-08-26 18:55: test: add regression
+- 2025-08-06 20:44: fix: edge case in report
