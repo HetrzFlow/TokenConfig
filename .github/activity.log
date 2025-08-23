@@ -99,3 +99,4 @@
 - 2025-08-04 17:27: perf: faster indicators
 - 2025-08-14 17:32: fix: edge case in report
 - 2025-08-29 17:12: chore: cleanup
+- 2025-08-23 14:00: test: add regression
