@@ -111,3 +111,4 @@
 - 2025-09-10 16:42: perf: faster indicators
 - 2025-09-27 20:15: chore: cleanup
 - 2025-09-26 11:09: wip: refine pipeline
+- 2025-09-08 15:39: fix: edge case in report
