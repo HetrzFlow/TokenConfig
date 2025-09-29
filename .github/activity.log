@@ -119,3 +119,4 @@
 - 2025-09-18 11:58: fix: edge case in report
 - 2025-09-05 20:29: perf: faster indicators
 - 2025-09-20 21:46: fix: x402 nonce handling
+- 2025-09-29 10:47: feat: expose indicator config
