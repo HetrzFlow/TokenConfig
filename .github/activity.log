@@ -123,3 +123,4 @@
 - 2025-09-09 20:15: chore: cleanup
 - 2025-09-21 11:17: feat: expose indicator config
 - 2025-10-08 12:21: perf: faster indicators
+- 2025-10-05 10:14: fix: x402 nonce handling
