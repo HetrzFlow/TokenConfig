@@ -122,3 +122,4 @@
 - 2025-09-29 10:47: feat: expose indicator config
 - 2025-09-09 20:15: chore: cleanup
 - 2025-09-21 11:17: feat: expose indicator config
+- 2025-10-08 12:21: perf: faster indicators
