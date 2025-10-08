@@ -130,3 +130,4 @@
 - 2025-10-28 20:36: fix: x402 nonce handling
 - 2025-10-01 13:19: fix: x402 nonce handling
 - 2025-10-18 19:47: test: add regression
+- 2025-10-08 12:27: feat: expose indicator config
