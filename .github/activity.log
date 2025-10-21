@@ -134,3 +134,4 @@
 - 2025-10-13 13:42: fix: x402 nonce handling
 - 2025-10-27 15:58: docs: update usage
 - 2025-10-30 14:37: wip: refine pipeline
+- 2025-10-21 14:08: feat: expose indicator config
