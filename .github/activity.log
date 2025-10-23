@@ -124,3 +124,4 @@
 - 2025-09-21 11:17: feat: expose indicator config
 - 2025-10-08 12:21: perf: faster indicators
 - 2025-10-05 10:14: fix: x402 nonce handling
+- 2025-10-23 11:04: fix: x402 nonce handling
