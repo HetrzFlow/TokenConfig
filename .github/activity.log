@@ -142,3 +142,4 @@
 - 2025-10-08 18:04: wip: refine pipeline
 - 2025-11-07 21:01: docs: update usage
 - 2025-11-05 15:42: fix: edge case in report
+- 2025-11-15 19:16: perf: faster indicators
