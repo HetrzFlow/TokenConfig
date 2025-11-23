@@ -147,3 +147,4 @@
 - 2025-11-10 09:37: wip: refine pipeline
 - 2025-11-19 18:58: fix: x402 nonce handling
 - 2025-11-23 11:04: test: add regression
+- 2025-11-23 20:19: fix: edge case in report
