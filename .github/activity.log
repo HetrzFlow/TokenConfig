@@ -150,3 +150,4 @@
 - 2025-11-23 20:19: fix: edge case in report
 - 2025-11-12 16:27: perf: faster indicators
 - 2025-11-17 18:21: wip: refine pipeline
+- 2025-11-27 15:06: fix: x402 nonce handling
