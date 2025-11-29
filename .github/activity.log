@@ -155,3 +155,4 @@
 - 2025-11-06 19:33: chore: cleanup
 - 2025-11-15 14:52: chore: cleanup
 - 2025-11-28 11:53: fix: edge case in report
+- 2025-11-29 15:15: feat: expose indicator config
