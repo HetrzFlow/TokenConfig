@@ -157,3 +157,4 @@
 - 2025-11-28 11:53: fix: edge case in report
 - 2025-11-29 15:15: feat: expose indicator config
 - 2025-11-11 08:31: perf: faster indicators
+- 2025-12-07 13:51: chore: cleanup
