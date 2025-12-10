@@ -163,3 +163,4 @@
 - 2025-12-16 16:48: test: add regression
 - 2025-12-21 19:31: feat: expose indicator config
 - 2025-12-03 12:14: fix: x402 nonce handling
+- 2025-12-10 18:37: perf: faster indicators
