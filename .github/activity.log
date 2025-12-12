@@ -165,3 +165,4 @@
 - 2025-12-03 12:14: fix: x402 nonce handling
 - 2025-12-10 18:37: perf: faster indicators
 - 2025-12-18 16:22: fix: x402 nonce handling
+- 2025-12-12 19:29: chore: cleanup
