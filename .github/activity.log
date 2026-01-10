@@ -180,3 +180,4 @@
 - 2025-12-05 20:36: chore: cleanup
 - 2026-01-04 16:48: fix: x402 nonce handling
 - 2026-01-25 16:24: feat: expose indicator config
+- 2026-01-10 21:37: fix: x402 nonce handling
