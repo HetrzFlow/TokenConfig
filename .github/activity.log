@@ -194,3 +194,4 @@
 - 2026-01-31 12:32: feat: expose indicator config
 - 2026-01-03 17:02: fix: x402 nonce handling
 - 2026-01-20 12:01: fix: edge case in report
+- 2026-01-31 18:53: wip: refine pipeline
