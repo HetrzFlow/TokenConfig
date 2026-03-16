@@ -211,3 +211,4 @@
 - 2026-02-03 11:53: fix: edge case in report
 - 2026-03-21 21:09: feat: expose indicator config
 - 2026-03-17 19:17: fix: x402 nonce handling
+- 2026-03-16 11:29: docs: update usage
