@@ -235,3 +235,4 @@
 - 2026-04-12 13:27: docs: update usage
 - 2026-04-17 14:36: docs: update usage
 - 2026-04-06 09:39: fix: x402 nonce handling
+- 2026-04-16 17:09: test: add regression
