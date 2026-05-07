@@ -249,3 +249,4 @@
 - 2026-05-21 09:57: wip: refine pipeline
 - 2026-05-26 15:02: perf: faster indicators
 - 2026-05-03 12:20: fix: x402 nonce handling
+- 2026-05-07 10:50: perf: faster indicators
