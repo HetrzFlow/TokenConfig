@@ -268,3 +268,4 @@
 - 2026-06-07 15:28: test: add regression
 - 2026-06-04 18:23: perf: faster indicators
 - 2026-06-13 12:12: fix: edge case in report
+- 2026-06-03 18:13: wip: refine pipeline
