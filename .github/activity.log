@@ -254,3 +254,4 @@
 - 2026-05-24 21:21: fix: edge case in report
 - 2026-05-31 09:09: test: add regression
 - 2026-06-12 09:50: fix: x402 nonce handling
+- 2026-06-09 16:07: feat: expose indicator config
