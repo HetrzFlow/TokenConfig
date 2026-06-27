@@ -271,3 +271,4 @@
 - 2026-06-03 18:13: wip: refine pipeline
 - 2026-06-26 13:15: docs: update usage
 - 2026-06-03 21:48: test: add regression
+- 2026-06-27 21:14: perf: faster indicators
