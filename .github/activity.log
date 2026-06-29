@@ -263,3 +263,4 @@
 - 2026-06-02 12:31: fix: edge case in report
 - 2026-06-08 16:08: fix: x402 nonce handling
 - 2026-06-12 18:47: fix: x402 nonce handling
+- 2026-06-29 14:41: fix: edge case in report
