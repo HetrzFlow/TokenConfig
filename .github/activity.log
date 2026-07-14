@@ -287,3 +287,4 @@
 - 2026-07-20 18:37: perf: faster indicators
 - 2026-07-20 16:18: feat: expose indicator config
 - 2026-07-04 20:44: fix: edge case in report
+- 2026-07-14 15:56: test: add regression
