@@ -284,3 +284,4 @@
 - 2026-07-28 14:27: fix: edge case in report
 - 2026-07-23 15:04: fix: edge case in report
 - 2026-07-20 10:04: docs: update usage
+- 2026-07-20 18:37: perf: faster indicators
