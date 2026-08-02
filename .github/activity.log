@@ -294,3 +294,4 @@
 - 2026-07-03 09:53: fix: edge case in report
 - 2026-07-14 09:47: perf: faster indicators
 - 2026-07-18 08:37: perf: faster indicators
+- 2026-08-02 12:38: chore: cleanup
