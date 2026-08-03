@@ -228,3 +228,7 @@ cd buyer-client && npx tsc --noEmit
 
 Apache-2.0. The original demo is (c) BNB Chain; this fork adds the
 chain-agnostic layer, RH chain feed and Virtuals integration.
+
+---
+
+_Last updated 2026-08-03 — RH chain feed + Virtuals personas GA._
