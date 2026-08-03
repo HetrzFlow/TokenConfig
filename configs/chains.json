@@ -54,3 +54,4 @@
   },
   "indicators": ["RSI", "MACD", "BOLLINGER", "MA50", "MA200", "GOLDEN_CROSS", "DEATH_CROSS", "ADX", "OBV", "ATR", "VAR95"]
 }
+
